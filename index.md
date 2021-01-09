@@ -1,4 +1,4 @@
-## Welcome to my GitHub Pages
+## Meet me
 
 You can use the [editor on GitHub](https://github.com/badataiwo/badataiwo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
